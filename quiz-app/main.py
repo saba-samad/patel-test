@@ -25,9 +25,8 @@ questions = [
     },
     {
         "question": "4: How long should healthcare workers wash their hands?",
-        "options": ["A: 10 seconds","B: 20-30 seconds","C: 40 seconds","D: 1 minute"
-],
-        "answer": "20-30 seconds",
+        "options": ["A: 10 seconds","B: 20-30 seconds","C: 40 seconds","D: 1 minute"],
+        "answer": "20-30 seconds",   
     },
     {
         "question":"5 What is the correct technique for handwashing?",
@@ -50,12 +49,12 @@ questions = [
      "options":["A: Yes","B: No","C: Only if hands are washed first","D: Only if hands are rinsed first"],
      "answer":"No"  
     },
-        {
+    {
      "question":"9: How often should healthcare workers perform hand hygiene?",
      "options":["A: Only when entering a patient room","B: Only when exiting a patient room","C: Frequently throughout the day","D: Only when performing invasive procedures"],
      "answer":"Frequently throughout the day"  
     },
-          {
+    {
      "question":"10. What is the role of hand hygiene in preventing healthcare-associated infections?",
      "options":["A: It has no impact","B: It reduces the risk of transmission","C: It eliminates the risk of transmission","D: It increases the risk of transmission"],
      "answer":"B: It reduces the risk of transmission"  
@@ -63,19 +62,19 @@ questions = [
     {
     "question":"What is the full form of MRSA?",
     "options":["Methcilin Resistant Stophylocous Aureus","Multi Resistant Stophylocous Aureus ","Multi Reading Skills Aureus"],
-     "'answer":"Methcilin Resistant Stophylocous Aureus" ,   
+    "answer":"Methcilin Resistant Stophylocous Aureus" ,   
     } , 
     {
      "question":"11. When should healthcare workers wear gloves?",
      "options":["A: Only when performing invasive procedures","B: Only when contact with bodily fluids is anticipated","C: For all patient interactions","D: Never"],
-     "answer":"B)Only when contact with bodily fluids is anticipated"  
+     "answer":"B)Only when contact with bodily fluids is anticipated" , 
     },
-              {
+    {
      "question":"12. Can hand hygiene prevent the transmission of antibiotic-resistant organisms?",
      "options":["A) Yes","B) No","C) Only if hands are washed with soap and water","D) Only if hands are sanitized with alcohol-based hand rub"],
-     "answer":"A) Yes"  
+     "answer":"A) Yes",
     },
-                {
+    {
      "question":"13. How can healthcare workers ensure effective hand hygiene?",
      "options":["A) By following hospital policies","B) By using hand sanitizer frequently","C) By washing hands only when visibly soiled","D) By relying on others to perform hand hygiene"],
      "answer":"A) By following hospital policies"  
