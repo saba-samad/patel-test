@@ -32,7 +32,7 @@ questions = [
     {
         "question":"5 What is the correct technique for handwashing?",
         "options": ["A: Rubbing hands together quickly","B: Using hot water only","C: Lathering soap and rubbing all surfaces","D: Rinsing hands quickly"],
-        "answer": "Karachi",
+        "answer": "chlorexiden soap and rubbing all surfaces",
     },
     {
         "question":"6: When should healthcare workers use hand sanitizer?",
@@ -60,7 +60,12 @@ questions = [
      "options":["A: It has no impact","B: It reduces the risk of transmission","C: It eliminates the risk of transmission","D: It increases the risk of transmission"],
      "answer":"B: It reduces the risk of transmission"  
     },
-            {
+    {
+    "question":"What is the full form of MRSA?",
+    "options":["Methcilin Resistant Stophylocous Aureus","Multi Resistant Stophylocous Aureus ","Multi Reading Skills Aureus"],
+     "'answer":"Methcilin Resistant Stophylocous Aureus" ,   
+    } , 
+    {
      "question":"11. When should healthcare workers wear gloves?",
      "options":["A: Only when performing invasive procedures","B: Only when contact with bodily fluids is anticipated","C: For all patient interactions","D: Never"],
      "answer":"B)Only when contact with bodily fluids is anticipated"  
